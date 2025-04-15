@@ -39,8 +39,8 @@ The system consists of several components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshitha-04/Real_time_Emoji_Streaming.git
-   cd emoji-streaming-platform
+   git clone https://github.com/harshitha-04/Emoji-streaming-platform.git
+   cd Emoji-streaming-platform
    ```
 
 2. Install Python dependencies:
