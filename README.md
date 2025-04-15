@@ -39,7 +39,7 @@ The system consists of several components:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/harshitha-04/Real_time_Emoji_Streaming.git]
+   git clone https://github.com/harshitha-04/Real_time_Emoji_Streaming.git
    cd emoji-streaming-platform
    ```
 
