@@ -4,7 +4,6 @@ A distributed system for processing and distributing emoji data in real-time usi
 
 ## System Architecture
 
-![System Architecture Diagram](architecture.png) *(Note: You should create and include an actual diagram)*
 
 The system consists of several components:
 1. **Emoji Producer**: Flask API that receives emoji data
